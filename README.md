@@ -66,18 +66,6 @@
 
 ---
 
-## 📊 GitHub Stats (Stable)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IAMROCKDEBA&show_icons=true&hide_border=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAMROCKDEBA&layout=compact&hide_border=true&theme=github_dark" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Data Structures & Algorithms  
