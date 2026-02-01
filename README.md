@@ -1,14 +1,13 @@
 <div align="center">
 
-# Hi 👋, I'm **Debarshi Sau** (IAMROCKDEBA)
-
+# Hi 👋, I'm **Debarshi Sau**  
 ### B.Tech CSE Student | Software Developer  
-### C • C++ • Java • Python • Web & Full-Stack Development
+### C • C++ • Java • Python • Web Development
 
 </div>
 
 <p align="center">
-  <img src="https://github.com/IAMROCKDEBA.png" width="150" alt="Profile Picture" />
+  <img src="https://avatars.githubusercontent.com/IAMROCKDEBA" width="140" />
 </p>
 
 ---
@@ -16,24 +15,24 @@
 ## 👨‍💻 About Me
 
 - 🎓 3rd-year **B.Tech Computer Science & Engineering** student  
-- 💻 Strong in **core programming and problem solving**  
-- 🌱 Learning **Next.js, TypeScript, modern web development**  
-- 🧠 Interested in **systems, backend, and scalable applications**  
-- 🤝 Open to collaboration and growth opportunities  
+- 💻 Strong in **core programming & problem solving**  
+- 🌱 Learning **Next.js & TypeScript**  
+- 🧠 Interested in **system-level and backend development**  
+- 🤝 Open to collaboration and internships  
 
 ---
 
-## 📫 Connect with Me
+## 🔗 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/IAMROCKDEBA">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/rockdeba3">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/debarshi.sau.12">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
@@ -41,51 +40,51 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🌐 Web Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+### 🌐 Web & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+### 🧰 Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IAMROCKDEBA&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IAMROCKDEBA&show_icons=true&hide_border=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAMROCKDEBA&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAMROCKDEBA&layout=compact&hide_border=true&theme=github_dark" />
 </p>
 
 ---
 
-## 🔭 Current Focus
+## 🎯 Current Focus
 
 - Data Structures & Algorithms  
-- Full-Stack Development with **Next.js**  
-- Writing clean, efficient, maintainable code  
-- Preparing for **software engineering roles**
+- Full-Stack Development  
+- Writing clean and efficient code  
+- Preparing for **Software Engineer roles**
 
 ---
 
-⭐ *If you find my work useful, consider starring my repositories.*
+⭐ *If you like my work, consider starring my repositories.*
