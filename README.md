@@ -2,89 +2,67 @@
 
 # Hi 👋, I'm **Debarshi Sau** (IAMROCKDEBA)
 
-### B.Tech CSE Student | Software Developer | Problem Solver  
-### C • C++ • Java • Python • Web & Full-Stack Enthusiast
+### B.Tech CSE Student | Software Developer  
+### C • C++ • Java • Python • Web & Full-Stack Development
 
 </div>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" />
+  <img src="https://github.com/IAMROCKDEBA.png" width="150" alt="Profile Picture" />
 </p>
 
 ---
+
+## 👨‍💻 About Me
 
 - 🎓 3rd-year **B.Tech Computer Science & Engineering** student  
-- 💻 Strong foundation in **core programming & computer science**  
-- 🌱 Currently exploring **Next.js, TypeScript, Full-Stack Development**  
-- 🧠 Interested in **system-level programming and real-world problem solving**  
-- 🤝 Open to collaboration and learning opportunities  
+- 💻 Strong in **core programming and problem solving**  
+- 🌱 Learning **Next.js, TypeScript, modern web development**  
+- 🧠 Interested in **systems, backend, and scalable applications**  
+- 🤝 Open to collaboration and growth opportunities  
 
 ---
 
-## 📫 How to reach me
+## 📫 Connect with Me
 
 <p align="left">
-<a href="https://github.com/IAMROCKDEBA" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/rockdeba3" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/debarshi.sau.12" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="30" width="40" />
-</a>
+  <a href="https://github.com/IAMROCKDEBA">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" height="30"/>
+  </a>
+  <a href="https://instagram.com/rockdeba3">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30"/>
+  </a>
+  <a href="https://www.facebook.com/debarshi.sau.12">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="30" height="30"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="center">
+### 💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
 
-<!-- Languages -->
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+### 🌐 Web Technologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+</p>
 
-<!-- Web -->
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Frameworks -->
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-</a>
-
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
 
 ---
@@ -101,13 +79,13 @@
 
 ---
 
-## 🔭 What I’m Working On
+## 🔭 Current Focus
 
-- Strengthening **DSA & core CS concepts**
-- Building projects using **Next.js + TypeScript**
-- Writing clean, efficient, and maintainable code
+- Data Structures & Algorithms  
+- Full-Stack Development with **Next.js**  
+- Writing clean, efficient, maintainable code  
 - Preparing for **software engineering roles**
 
 ---
 
-⭐ *If you like my work, consider starring my repositories and connecting with me!*
+⭐ *If you find my work useful, consider starring my repositories.*
