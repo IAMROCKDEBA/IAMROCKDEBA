@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd-year **B.Tech Computer Science & Engineering** student  
+- 🎓 4th-year **B.Tech Computer Science & Engineering** student  
 - 💻 Strong in **core programming & problem solving**  
 - 🌱 Learning **Next.js & TypeScript**  
 - 🧠 Interested in **system-level and backend development**  
