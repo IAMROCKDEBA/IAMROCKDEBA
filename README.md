@@ -1,78 +1,56 @@
+<!-- © 2026 Debarshi Sau. All rights reserved. Design, artwork and code may not be copied, modified or redistributed. See LICENSE. -->
 <div align="center">
 
-# Hi 👋, I'm **Debarshi Sau**  
-### B.Tech CSE Student | Software Developer  
-### C • C++ • Java • Python • Web Development
+<a href="https://debarshisau.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Debarshi Sau, Full-Stack Engineer. Full-stack engineer crafting web and native Android products — secure, real-time, and obsessively polished."></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/marquee-dark.svg"><img src="assets/marquee-light.svg" width="100%" alt="Full-stack products · Native Android · Real-time systems · Security-first · Cloud infrastructure · Motion &amp; 3D"></picture>
+
+<p>
+<a href="https://debarshisau.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img src="assets/link-portfolio-light.svg" width="23.5%" alt="Portfolio"></picture></a>
+<a href="https://rynce.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-rynce-dark.svg"><img src="assets/link-rynce-light.svg" width="23.5%" alt="Rynce"></picture></a>
+<a href="https://instagram.com/rockdeba3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-instagram-dark.svg"><img src="assets/link-instagram-light.svg" width="23.5%" alt="Instagram"></picture></a>
+<a href="https://www.facebook.com/debarshi.sau.12"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-facebook-dark.svg"><img src="assets/link-facebook-light.svg" width="23.5%" alt="Facebook"></picture></a>
+</p>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-work-dark.svg"><img src="assets/section-work-light.svg" width="100%" alt="Selected works"></picture>
+
+<a href="https://rynce.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rynce-dark.svg"><img src="assets/project-rynce-light.svg" width="100%" alt="Rynce: Split group expenses, track personal spending and settle up — one product across a Next.js web app and a native Android client, with live encrypted chat."></picture></a>
+
+<a href="https://debarshisau.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-classconnect-dark.svg"><img src="assets/project-classconnect-light.svg" width="100%" alt="ClassConnect: The academic support platform for Adamas University: students, mentors and administrators resolving academic cases together, with live notifications and AI study assistance."></picture></a>
+
+<a href="https://github.com/IAMROCKDEBA/aether"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-aether-dark.svg"><img src="assets/project-aether-light.svg" width="100%" alt="Aether: Cloud file sharing with precise permission control. Private, restricted and public access, password-locked links that expire, uploads streamed straight to S3."></picture></a>
+
+<p>
+<a href="https://github.com/IAMROCKDEBA/GestureForge-3D"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gestureforge-dark.svg"><img src="assets/project-gestureforge-light.svg" width="49%" alt="GestureForge 3D: An augmented-reality 3D studio: build and sculpt with bare-hand gestures, real-time physics and spatial audio, in the browser."></picture></a>
+<a href="https://scrollsenseai.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-scrollsense-dark.svg"><img src="assets/project-scrollsense-light.svg" width="49%" alt="ScrollSense AI: Predicts short-video addiction risk from live session behaviour, mood check-ins and cognitive tests, with explainable scoring."></picture></a>
+</p>
+
+<p>
+<a href="https://github.com/IAMSUPRIYODASUKIL/Keystroke-Dynamics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-keystroke-dark.svg"><img src="assets/project-keystroke-light.svg" width="49%" alt="Keystroke Dynamics: Behavioural biometrics as a second factor: the rhythm of your typing, verified by Random Forest and SVM models behind the password."></picture></a>
+<a href="https://pc-sentinel.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sentinel-dark.svg"><img src="assets/project-sentinel-light.svg" width="49%" alt="PC Sentinel: Private machine monitoring: heartbeat detection, an authenticated live dashboard and instant Telegram alerts the moment a PC goes dark."></picture></a>
+</p>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg"><img src="assets/section-stack-light.svg" width="100%" alt="The movement inside"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Languages: TypeScript, JavaScript, Kotlin, Java, Python, C, C++, SQL. Interfaces: React 19, Next.js 16, Jetpack Compose, Tailwind CSS, Motion, Three.js, Vite, PWA. Backend &amp; data: Node.js, Express, PostgreSQL, Prisma, Socket.io, Redis, MongoDB, FastAPI, Zod. Cloud &amp; ops: AWS S3, Cloudflare R2, Docker, Caddy, Nginx, Vercel, Linux, Git. Security &amp; AI: OAuth 2.0, Passkeys / WebAuthn, MFA, scikit-learn, MediaPipe, LLM APIs"></picture>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-telemetry-dark.svg"><img src="assets/section-telemetry-light.svg" width="100%" alt="A year, measured"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><img src="assets/activity-light.svg" width="100%" alt="2,238 contributions in the last year, 195 active days, longest streak 33 days"></picture>
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"><img src="assets/languages-light.svg" width="49%" alt="Languages: TypeScript 60%, JavaScript 36%, C 4%, C++ 0%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg"><img src="assets/now-light.svg" width="49%" alt="Building: Rynce — shared money, web &amp; Android. Studying: B.Tech CSE, final year · Adamas University. Seeking: Software engineering roles &amp; internships. Off-screen: Chess, street &amp; urban photography"></picture>
+</p>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" width="100%" alt="Think several moves ahead. Ship the one that wins."></picture>
 
 </div>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/IAMROCKDEBA" width="140" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 4th-year **B.Tech Computer Science & Engineering** student  
-- 💻 Strong in **core programming & problem solving**  
-- 🌱 Learning **Next.js & TypeScript**  
-- 🧠 Interested in **system-level and backend development**  
-- 🤝 Open to collaboration and internships  
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/IAMROCKDEBA">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/rockdeba3">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/debarshi.sau.12">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🌐 Web & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-
-### 🧰 Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- Data Structures & Algorithms  
-- Full-Stack Development  
-- Writing clean and efficient code  
-- Preparing for **Software Engineer roles**
-
----
-
-⭐ *If you like my work, consider starring my repositories.*
