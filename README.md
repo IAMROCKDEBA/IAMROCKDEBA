@@ -8,7 +8,7 @@
 <p>
 <a href="https://debarshisau.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img src="assets/link-portfolio-light.svg" width="23.5%" alt="Portfolio"></picture></a>
 <a href="https://rynce.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-rynce-dark.svg"><img src="assets/link-rynce-light.svg" width="23.5%" alt="Rynce"></picture></a>
-<a href="https://instagram.com/rockdeba3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-instagram-dark.svg"><img src="assets/link-instagram-light.svg" width="23.5%" alt="Instagram"></picture></a>
+<a href="https://www.instagram.com/i.am.rockdeba"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-instagram-dark.svg"><img src="assets/link-instagram-light.svg" width="23.5%" alt="Instagram"></picture></a>
 <a href="https://www.facebook.com/debarshi.sau.12"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-facebook-dark.svg"><img src="assets/link-facebook-light.svg" width="23.5%" alt="Facebook"></picture></a>
 </p>
 
