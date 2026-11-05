@@ -21,7 +21,7 @@
   <text x="70" y="49" font-family="DSMono4,ui-monospace,'SF Mono',Consolas,monospace" font-size="9.5" letter-spacing="2.6" fill="#6F6B65">DIGITAL WELL-BEING</text>
 </g>
 <text class="fu" style="animation-delay:.08s" x="32" y="178" font-family="DSSerif,'Iowan Old Style','Palatino Linotype',Georgia,serif" font-size="42" fill="#F0EEE9">ScrollSense AI</text>
-<g class="fu" style="animation-delay:.16s" font-family="DSSans4,-apple-system,'Segoe UI',Inter,Roboto,sans-serif" font-size="14.5" fill="#ABA69E"><text x="34" y="214">Predicts short-video addiction risk from live session behaviour,</text><text x="34" y="237">mood check-ins and cognitive tests, with explainable scoring.</text></g>
+<g class="fu" style="animation-delay:.16s" font-family="DSSans4,-apple-system,'Segoe UI',Inter,Roboto,sans-serif" font-size="14.5" fill="#ABA69E"><text x="34" y="214">Predicts short-video addiction risk from live session behaviour,</text><text x="34" y="236.91">mood check-ins and cognitive tests, with explainable scoring.</text></g>
 <rect x="34" y="286" width="422" height="1" fill="rgba(240,238,233,0.08)" class="dl" style="animation-delay:.25s"/>
 <g class="fu" style="animation-delay:.3s">
   <text x="34" y="312" font-family="DSMono4,ui-monospace,'SF Mono',Consolas,monospace" font-size="9.5" letter-spacing="1.8" fill="#6F6B65" style="white-space:pre">TYPESCRIPT  ·  NEXT.JS  ·  PWA</text>

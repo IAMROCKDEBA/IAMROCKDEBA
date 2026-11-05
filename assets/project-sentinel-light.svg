@@ -23,7 +23,7 @@
   <text x="70" y="49" font-family="DSMono4,ui-monospace,'SF Mono',Consolas,monospace" font-size="9.5" letter-spacing="2.6" fill="#8A847C">MONITORING · ALERTS</text>
 </g>
 <text class="fu" style="animation-delay:.08s" x="32" y="178" font-family="DSSerif,'Iowan Old Style','Palatino Linotype',Georgia,serif" font-size="42" fill="#0C0C0E">PC Sentinel</text>
-<g class="fu" style="animation-delay:.16s" font-family="DSSans4,-apple-system,'Segoe UI',Inter,Roboto,sans-serif" font-size="14.5" fill="#4F4A44"><text x="34" y="214">Private machine monitoring: heartbeat detection, an</text><text x="34" y="237">authenticated live dashboard and instant Telegram alerts the</text><text x="34" y="260">moment a PC goes dark.</text></g>
+<g class="fu" style="animation-delay:.16s" font-family="DSSans4,-apple-system,'Segoe UI',Inter,Roboto,sans-serif" font-size="14.5" fill="#4F4A44"><text x="34" y="214">Private machine monitoring: heartbeat detection, an</text><text x="34" y="236.91">authenticated live dashboard and instant Telegram alerts the</text><text x="34" y="259.82">moment a PC goes dark.</text></g>
 <rect x="34" y="286" width="422" height="1" fill="rgba(12,12,14,0.10)" class="dl" style="animation-delay:.25s"/>
 <g class="fu" style="animation-delay:.3s">
   <text x="34" y="312" font-family="DSMono4,ui-monospace,'SF Mono',Consolas,monospace" font-size="9.5" letter-spacing="1.8" fill="#8A847C" style="white-space:pre">REACT  ·  NODE.JS  ·  EXPRESS</text>

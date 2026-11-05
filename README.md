@@ -28,7 +28,7 @@
 </p>
 
 <p>
-<a href="https://github.com/IAMSUPRIYODASUKIL/Keystroke-Dynamics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-keystroke-dark.svg"><img src="assets/project-keystroke-light.svg" width="49%" alt="Keystroke Dynamics: Behavioural biometrics as a second factor: the rhythm of your typing, verified by Random Forest and SVM models behind the password."></picture></a>
+<a href="https://debarshisau.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-klenara-dark.svg"><img src="assets/project-klenara-light.svg" width="49%" alt="Klenara: A Claude-powered AI workspace built for India: INR and UPI billing, an interface in four languages, and agent presets for exams and everyday work."></picture></a>
 <a href="https://pc-sentinel.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sentinel-dark.svg"><img src="assets/project-sentinel-light.svg" width="49%" alt="PC Sentinel: Private machine monitoring: heartbeat detection, an authenticated live dashboard and instant Telegram alerts the moment a PC goes dark."></picture></a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg"><img src="assets/section-stack-light.svg" width="100%" alt="The movement inside"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Languages: TypeScript, JavaScript, Kotlin, Java, Python, C, C++, SQL. Interfaces: React 19, Next.js 16, Jetpack Compose, Tailwind CSS, Motion, Three.js, Vite, PWA. Backend &amp; data: Node.js, Express, PostgreSQL, Prisma, Socket.io, Redis, MongoDB, FastAPI, Zod. Cloud &amp; ops: AWS S3, Cloudflare R2, Docker, Caddy, Nginx, Vercel, Linux, Git. Security &amp; AI: OAuth 2.0, Passkeys / WebAuthn, MFA, scikit-learn, MediaPipe, LLM APIs"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Languages: TypeScript, JavaScript, Kotlin, Java, Python, C, C++, SQL. Interfaces: React 19, Next.js 16, Jetpack Compose, Tailwind CSS, Motion, Three.js, Vite, PWA. Backend &amp; data: Node.js, Express, PostgreSQL, Prisma, Socket.io, Redis, MongoDB, BullMQ, Zod. Cloud &amp; ops: AWS S3, Cloudflare R2, Docker, Caddy, Nginx, Vercel, Linux, Git. Security &amp; AI: OAuth 2.0, Passkeys / WebAuthn, MFA, Argon2, MediaPipe, Claude API"></picture>
 
 <br>
 

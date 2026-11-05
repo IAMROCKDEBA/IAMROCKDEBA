@@ -19,7 +19,7 @@
   <text x="70" y="49" font-family="DSMono4,ui-monospace,'SF Mono',Consolas,monospace" font-size="9.5" letter-spacing="2.6" fill="#8A847C">COMPUTER VISION · 3D</text>
 </g>
 <text class="fu" style="animation-delay:.08s" x="32" y="178" font-family="DSSerif,'Iowan Old Style','Palatino Linotype',Georgia,serif" font-size="42" fill="#0C0C0E">GestureForge 3D</text>
-<g class="fu" style="animation-delay:.16s" font-family="DSSans4,-apple-system,'Segoe UI',Inter,Roboto,sans-serif" font-size="14.5" fill="#4F4A44"><text x="34" y="214">An augmented-reality 3D studio: build and sculpt with</text><text x="34" y="237">bare-hand gestures, real-time physics and spatial audio, in the</text><text x="34" y="260">browser.</text></g>
+<g class="fu" style="animation-delay:.16s" font-family="DSSans4,-apple-system,'Segoe UI',Inter,Roboto,sans-serif" font-size="14.5" fill="#4F4A44"><text x="34" y="214">An augmented-reality 3D studio: build and sculpt with</text><text x="34" y="236.91">bare-hand gestures, real-time physics and spatial audio, in the</text><text x="34" y="259.82">browser.</text></g>
 <rect x="34" y="286" width="422" height="1" fill="rgba(12,12,14,0.10)" class="dl" style="animation-delay:.25s"/>
 <g class="fu" style="animation-delay:.3s">
   <text x="34" y="312" font-family="DSMono4,ui-monospace,'SF Mono',Consolas,monospace" font-size="9.5" letter-spacing="1.8" fill="#8A847C" style="white-space:pre">THREE.JS  ·  MEDIAPIPE  ·  CANNON-ES</text>
