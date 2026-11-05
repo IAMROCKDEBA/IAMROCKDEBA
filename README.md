@@ -1,7 +1,7 @@
 <!-- © 2026 Debarshi Sau. All rights reserved. Design, artwork and code may not be copied, modified or redistributed. See LICENSE. -->
 <div align="center">
 
-<a href="https://debarshisau.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Debarshi Sau, Full-Stack Engineer. Full-stack engineer crafting web and native Android products — secure, real-time, and obsessively polished."></picture></a>
+<a href="https://debarshisau.in"><picture><source media="(prefers-color-scheme: dark)" srcset="https://debarshi-profile.vercel.app/api/hero?theme=dark"><img src="https://debarshi-profile.vercel.app/api/hero?theme=light" width="100%" alt="Debarshi Sau, Full-Stack Engineer. Full-stack engineer crafting web and native Android products — secure, real-time, and obsessively polished. The dial shows the current time in Kolkata."></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/marquee-dark.svg"><img src="assets/marquee-light.svg" width="100%" alt="Full-stack products · Native Android · Real-time systems · Security-first · Cloud infrastructure · Motion &amp; 3D"></picture>
 
