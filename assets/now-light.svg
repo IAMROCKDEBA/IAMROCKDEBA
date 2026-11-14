@@ -11,7 +11,7 @@
 
 <rect width="490" height="330" rx="24" fill="#F0EEE9"/>
 <text class="fi" x="34" y="50" font-family="DSMono4,ui-monospace,'SF Mono',Consolas,monospace" font-size="9.5" letter-spacing="2.8" fill="#8A847C">NOW  ·  ON GITHUB SINCE 2023</text>
-<circle class="pu" cx="452" cy="46" r="3.5" fill="#E2461A"/><circle cx="452" cy="46" r="3.5" fill="#E2461A"/>
+<circle cx="452" cy="46" r="7.5" fill="#E2461A" fill-opacity=".16"/><circle cx="452" cy="46" r="3.5" fill="#E2461A"/>
 <path d="M38 112V264" stroke="rgba(12,12,14,0.20)" stroke-dasharray="1 4"/>
 <g class="fu" style="animation-delay:0.25s">
 <circle cx="38" cy="108" r="4" fill="#E2461A" stroke="#E2461A"/>
