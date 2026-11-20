@@ -42,7 +42,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-telemetry-dark.svg"><img src="assets/section-telemetry-light.svg" width="100%" alt="A year, measured"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><img src="assets/activity-light.svg" width="100%" alt="2,301 contributions in the last year, 204 active days, longest streak 33 days"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><img src="assets/activity-light.svg" width="100%" alt="2,304 contributions in the last year, 205 active days, longest streak 33 days"></picture>
 
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"><img src="assets/languages-light.svg" width="49%" alt="Languages: TypeScript 61%, JavaScript 37%, Java 2%, Python 0%"></picture>
