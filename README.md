@@ -42,10 +42,10 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-telemetry-dark.svg"><img src="assets/section-telemetry-light.svg" width="100%" alt="A year, measured"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><img src="assets/activity-light.svg" width="100%" alt="2,337 contributions in the last year, 207 active days, longest streak 33 days"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><img src="assets/activity-light.svg" width="100%" alt="2,360 contributions in the last year, 208 active days, longest streak 33 days"></picture>
 
 <p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"><img src="assets/languages-light.svg" width="49%" alt="Languages: TypeScript 61%, JavaScript 37%, Java 2%, Python 0%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"><img src="assets/languages-light.svg" width="49%" alt="Languages: TypeScript 74%, JavaScript 25%, Java 1%, Python 0%"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg"><img src="assets/now-light.svg" width="49%" alt="Building: Rynce — shared money, web &amp; Android. Studying: B.Tech CSE, final year · Adamas University. Seeking: Software engineering roles &amp; internships. Off-screen: Chess, street &amp; urban photography"></picture>
 </p>
 
